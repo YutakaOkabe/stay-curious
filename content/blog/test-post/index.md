@@ -7,3 +7,5 @@ npm install
 ```
 
 いい感じ
+
+worktree のテストをしています
